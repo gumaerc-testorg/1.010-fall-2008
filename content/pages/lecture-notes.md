@@ -1,6 +1,6 @@
 ---
+content_type: page
 title: Lecture Notes
-type: page
 uid: 4d9a32f6-7c88-7687-01c3-60592f53f310
 ---
 

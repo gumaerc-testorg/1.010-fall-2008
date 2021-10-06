@@ -1,6 +1,6 @@
 ---
+content_type: page
 title: Application Examples
-type: page
 uid: 71fd70ed-185c-332b-74e6-4e459fe7b890
 ---
 
