@@ -1,8 +1,7 @@
 ---
 content_type: resource
 description: Lecture notes on the central limit theorem and sums of iid random variables.
-file: /media/courses/1-010-uncertainty-in-engineering-fall-2008/6cd771a514f00f9f21d80084ba3ecff2_app_17.pdf
-file_location: /coursemedia/1-010-uncertainty-in-engineering-fall-2008/6cd771a514f00f9f21d80084ba3ecff2_app_17.pdf
+file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/1-010-uncertainty-in-engineering-fall-2008/6cd771a514f00f9f21d80084ba3ecff2_app_17.pdf
 file_type: application/pdf
 resourcetype: Document
 title: Sums of iid Random Variables

@@ -1,8 +1,7 @@
 ---
 content_type: resource
 description: Quiz on uncertainty in engineering.
-file: /media/courses/1-010-uncertainty-in-engineering-fall-2008/da2151843b9df9c1972deab0499662f6_mini_quiz_4.pdf
-file_location: /coursemedia/1-010-uncertainty-in-engineering-fall-2008/da2151843b9df9c1972deab0499662f6_mini_quiz_4.pdf
+file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/1-010-uncertainty-in-engineering-fall-2008/da2151843b9df9c1972deab0499662f6_mini_quiz_4.pdf
 file_type: application/pdf
 resourcetype: Document
 title: 'Mini-Quiz #4'

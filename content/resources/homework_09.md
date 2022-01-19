@@ -1,8 +1,7 @@
 ---
 content_type: resource
 description: Homework assignment on uncertainty in engineering.
-file: /media/courses/1-010-uncertainty-in-engineering-fall-2008/78783a0d45e6ef9a1b43b466a97b5600_homework_09.pdf
-file_location: /coursemedia/1-010-uncertainty-in-engineering-fall-2008/78783a0d45e6ef9a1b43b466a97b5600_homework_09.pdf
+file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/1-010-uncertainty-in-engineering-fall-2008/78783a0d45e6ef9a1b43b466a97b5600_homework_09.pdf
 file_type: application/pdf
 resourcetype: Document
 title: 'Homework Set #9'

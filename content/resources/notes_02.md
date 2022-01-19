@@ -1,8 +1,7 @@
 ---
 content_type: resource
 description: Lecture notes on random variables and discrete distributions.
-file: /media/courses/1-010-uncertainty-in-engineering-fall-2008/8d0b1f53b504f9e460fa149b053f5566_notes_02.pdf
-file_location: /coursemedia/1-010-uncertainty-in-engineering-fall-2008/8d0b1f53b504f9e460fa149b053f5566_notes_02.pdf
+file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/1-010-uncertainty-in-engineering-fall-2008/8d0b1f53b504f9e460fa149b053f5566_notes_02.pdf
 file_type: application/pdf
 resourcetype: Document
 title: 'Brief Notes #2'

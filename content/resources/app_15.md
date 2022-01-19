@@ -2,8 +2,7 @@
 content_type: resource
 description: Lecture notes on Conditional second-moment analysis and uncertainty updating
   using noisy observations.
-file: /media/courses/1-010-uncertainty-in-engineering-fall-2008/f20b1a4fa12a99d17cbb35cb3cf28a43_app_15.pdf
-file_location: /coursemedia/1-010-uncertainty-in-engineering-fall-2008/f20b1a4fa12a99d17cbb35cb3cf28a43_app_15.pdf
+file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/1-010-uncertainty-in-engineering-fall-2008/f20b1a4fa12a99d17cbb35cb3cf28a43_app_15.pdf
 file_type: application/pdf
 resourcetype: Document
 title: Conditional Second-moment Analysis
