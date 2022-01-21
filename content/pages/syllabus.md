@@ -29,48 +29,11 @@ Ang, Alfredo H-S., and Wilson H. Tang. _Probability Concepts in Engineering: Emp
 Grading
 -------
 
-{{< tableopen >}}
-{{< theadopen >}}
-{{< tropen >}}
-{{< thopen >}}
-ACTIVITIES
-{{< thclose >}}
-{{< thopen >}}
-WEIGHTS
-{{< thclose >}}
-
-{{< trclose >}}
-
-{{< theadclose >}}
-{{< tropen >}}
-{{< tdopen >}}
-Homework
-{{< tdclose >}}
-{{< tdopen >}}
-1/3
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
-Mini quizzes (open books and notes)
-{{< tdclose >}}
-{{< tdopen >}}
-1/3
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
-Final exam (open books and notes)
-{{< tdclose >}}
-{{< tdopen >}}
-1/3
-{{< tdclose >}}
-
-{{< trclose >}}
-
-{{< tableclose >}}
+| ACTIVITIES | WEIGHTS |
+| --- | --- |
+| Homework | 1/3 |
+| Mini quizzes (open books and notes) | 1/3 |
+| Final exam (open books and notes) | 1/3 
 
 Group Work
 ----------

@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Lecture notes on stochastic systems and Monte Carlo simulation.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/1-010-uncertainty-in-engineering-fall-2008/a8fa7b3acb8ef5d3f5056fc9d25de82c_app_18.pdf
+file: /media/courses/1-010-uncertainty-in-engineering-fall-2008/a8fa7b3acb8ef5d3f5056fc9d25de82c_app_18.pdf
 file_type: application/pdf
 resourcetype: Document
 title: Designing the Checkout System of a Supermarket
