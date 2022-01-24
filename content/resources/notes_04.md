@@ -2,7 +2,7 @@
 content_type: resource
 description: Lecture notes on discrete random vectors, continuous random vectors,
   and independent random variables.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/1-010-uncertainty-in-engineering-fall-2008/200b54ec87d7b1f16129d91dc84a2775_notes_04.pdf
+file: /media/courses/1-010-uncertainty-in-engineering-fall-2008/200b54ec87d7b1f16129d91dc84a2775_notes_04.pdf
 file_type: application/pdf
 resourcetype: Document
 title: 'Brief Notes #4'

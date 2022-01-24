@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Final exam on uncertainty in engineering.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/1-010-uncertainty-in-engineering-fall-2008/6317b853229962e88034e6eae0030c7b_final_exam.pdf
+file: /media/courses/1-010-uncertainty-in-engineering-fall-2008/6317b853229962e88034e6eae0030c7b_final_exam.pdf
 file_type: application/pdf
 resourcetype: Document
 title: Final Exam
