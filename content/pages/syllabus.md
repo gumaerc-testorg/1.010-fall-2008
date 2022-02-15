@@ -1,5 +1,7 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 title: Syllabus
 uid: 2f32922b-1d91-f656-1e4b-5adef30316ad
 ---
@@ -29,11 +31,48 @@ Ang, Alfredo H-S., and Wilson H. Tang. _Probability Concepts in Engineering: Emp
 Grading
 -------
 
-| ACTIVITIES | WEIGHTS |
-| --- | --- |
-| Homework | 1/3 |
-| Mini quizzes (open books and notes) | 1/3 |
-| Final exam (open books and notes) | 1/3 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+ACTIVITIES
+{{< thclose >}}
+{{< thopen >}}
+WEIGHTS
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Homework
+{{< tdclose >}}
+{{< tdopen >}}
+1/3
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Mini quizzes (open books and notes)
+{{< tdclose >}}
+{{< tdopen >}}
+1/3
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Final exam (open books and notes)
+{{< tdclose >}}
+{{< tdopen >}}
+1/3
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 Group Work
 ----------
