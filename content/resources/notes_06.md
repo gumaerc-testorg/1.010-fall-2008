@@ -10,6 +10,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 4d9a32f6-7c88-7687-01c3-60592f53f310
 resourcetype: Document
 title: 'Brief Notes #6'
 uid: c984d798-1d38-3c8d-7d8d-9f62917cb61c

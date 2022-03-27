@@ -8,6 +8,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Application Examples
 parent_type: CourseSection
+parent_uid: 71fd70ed-185c-332b-74e6-4e459fe7b890
 resourcetype: Document
 title: Functions of Several Random Variables
 uid: 5082ee7a-f11a-0c0c-20ee-9d6e31552af8

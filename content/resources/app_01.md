@@ -8,6 +8,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Application Examples
 parent_type: CourseSection
+parent_uid: 71fd70ed-185c-332b-74e6-4e459fe7b890
 resourcetype: Document
 title: Probability of Combinations of Events; Binomial and Poisson Distributions
 uid: ef7f089d-91a8-31be-b067-8bb8482f5bdd

@@ -8,6 +8,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Application Examples
 parent_type: CourseSection
+parent_uid: 71fd70ed-185c-332b-74e6-4e459fe7b890
 resourcetype: Document
 title: FOSM Analysis for Functions of Many Variables
 uid: 907c1e63-a5f9-6afa-cc11-41b465b3e6f8

@@ -8,6 +8,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Application Examples
 parent_type: CourseSection
+parent_uid: 71fd70ed-185c-332b-74e6-4e459fe7b890
 resourcetype: Document
 title: 'Propagation of Uncertainty through Linear Formulas: Second-moment Analysis'
 uid: da7cd5ab-1d11-bc8c-c98d-12eb6c766a3e

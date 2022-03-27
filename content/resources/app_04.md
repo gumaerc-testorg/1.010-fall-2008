@@ -8,6 +8,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Application Examples
 parent_type: CourseSection
+parent_uid: 71fd70ed-185c-332b-74e6-4e459fe7b890
 resourcetype: Document
 title: "Bayes\u2019 Theorem (cont.)"
 uid: 4820210e-a00d-f30c-7501-fe7f07b4669c

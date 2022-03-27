@@ -8,6 +8,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Application Examples
 parent_type: CourseSection
+parent_uid: 71fd70ed-185c-332b-74e6-4e459fe7b890
 resourcetype: Document
 title: Functions of Random Variables and Reliability Analysis
 uid: 1dd014d4-6f68-cc7a-f702-da444156a710

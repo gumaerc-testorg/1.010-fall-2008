@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 1dd7ff79-7e94-b15b-1d9f-4dab4f77e3db
 resourcetype: Document
 title: 'Homework Set #2'
 uid: b6f76c02-e751-f811-cd5f-44d64d9d134b

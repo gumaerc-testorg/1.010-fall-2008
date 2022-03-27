@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Application Examples
 parent_type: CourseSection
+parent_uid: 71fd70ed-185c-332b-74e6-4e459fe7b890
 resourcetype: Document
 title: Designing the Checkout System of a Supermarket
 uid: a8fa7b3a-cb8e-f5d3-f505-6fc9d25de82c

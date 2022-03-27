@@ -8,6 +8,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Application Examples
 parent_type: CourseSection
+parent_uid: 71fd70ed-185c-332b-74e6-4e459fe7b890
 resourcetype: Document
 title: Joint, Marginal and Conditional Distributions
 uid: 41fad6a6-caf2-bf8e-54f3-dee60e1085c5

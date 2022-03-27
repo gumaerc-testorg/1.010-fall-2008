@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Exams
 parent_type: CourseSection
+parent_uid: 6dd5bf01-6cfb-58fd-3a5f-5a7e1d329b1e
 resourcetype: Document
 title: 'Mini-Quiz #2'
 uid: 99a2e594-47f6-f492-6eae-cceb84cfc38c

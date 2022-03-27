@@ -8,6 +8,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Application Examples
 parent_type: CourseSection
+parent_uid: 71fd70ed-185c-332b-74e6-4e459fe7b890
 resourcetype: Document
 title: Conditional Second Moment Analysis with Vectors
 uid: 7a14fddb-8bd2-ed12-3205-fdf3bfdfd5eb

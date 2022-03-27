@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 1dd7ff79-7e94-b15b-1d9f-4dab4f77e3db
 resourcetype: Document
 title: 'Homework Set #10'
 uid: 9bf5626d-7a0d-3321-84e1-97c360ea3063
