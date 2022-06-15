@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides the schedule of lecture topics, recitations, and
+  key dates for the course.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Calendar
@@ -10,7 +12,7 @@ Textbook readings are given as page numbers from this text:
 
 Ang, Alfredo H-S., and Wilson H. Tang. _Probability Concepts in Engineering: Emphasis on Applications to Civil and Environmental Engineering_. 2nd ed. New York, NY: John Wiley & Sons, 2006. ISBN: 9780471720645.
 
-The following table provides information about the lecture (L) and recitation (R) sessions, and also shows when each of the [lecture notes]({{< baseurl >}}/pages/lecture-notes) and [application examples]({{< baseurl >}}/pages/application-examples) are presented.
+The following table provides information about the lecture (L) and recitation (R) sessions, and also shows when each of the {{% resource_link 4d9a32f6-7c88-7687-01c3-60592f53f310 "lecture notes" %}} and {{% resource_link 71fd70ed-185c-332b-74e6-4e459fe7b890 "application examples" %}} are presented.
 
 {{< tableopen >}}
 {{< theadopen >}}
