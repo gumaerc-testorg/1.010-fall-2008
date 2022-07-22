@@ -5,6 +5,7 @@ file: /courses/1-010-uncertainty-in-engineering-fall-2008/49d6ce49494cb524bc894c
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: 'Brief Notes #3'
 uid: 49d6ce49-494c-b524-bc89-4cf276b6a35b
 ---
 Lecture notes on random variables and continuous distributions.
-

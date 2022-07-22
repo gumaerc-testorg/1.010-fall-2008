@@ -5,6 +5,7 @@ description: Lecture notes on exponential and Poisson distributions. Are the seq
 file: /courses/1-010-uncertainty-in-engineering-fall-2008/60ca2e937d397b58e64e8f0cb56432a0_app_06.pdf
 file_type: application/pdf
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Application Examples
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: Exponential and Poisson Distributions
 uid: 60ca2e93-7d39-7b58-e64e-8f0cb56432a0
 ---
 Lecture notes on exponential and Poisson distributions. Are the sequences of bus and earthquake arrivals Poisson?
-

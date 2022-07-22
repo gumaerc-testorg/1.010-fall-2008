@@ -5,6 +5,7 @@ file: /courses/1-010-uncertainty-in-engineering-fall-2008/b4ffd1b0d7fb56037fbdaf
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: 'Brief Notes #5'
 uid: b4ffd1b0-d7fb-5603-7fbd-af251d7fac68
 ---
 Lecture notes on functions of random variables and vectors.
-

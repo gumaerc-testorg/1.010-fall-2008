@@ -5,6 +5,7 @@ file: /courses/1-010-uncertainty-in-engineering-fall-2008/52495e9dbc66d317948e16
 file_type: application/pdf
 learning_resource_types:
 - Exams
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Exams
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: 'Mini-Quiz #1'
 uid: 52495e9d-bc66-d317-948e-166d1e234a83
 ---
 Quiz on uncertainty in engineering.
-

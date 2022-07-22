@@ -5,6 +5,7 @@ file: /courses/1-010-uncertainty-in-engineering-fall-2008/5c7a2224f30420195c5db4
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: 'Homework Set #8'
 uid: 5c7a2224-f304-2019-5c5d-b45afa6c6994
 ---
 Homework assignment on uncertainty in engineering.
-
