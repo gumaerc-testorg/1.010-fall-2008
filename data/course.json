@@ -20,7 +20,7 @@
   "legacy_uid": "5c1f7a49-b916-d4e1-bd4a-d1af237a04d1",
   "instructors": {
     "content": [
-      "72341676-02b1-c1a3-c022-b1b09945ce15"
+      "this-is-now-broken"
     ],
     "website": "ocw-www"
   },
@@ -45,5 +45,6 @@
     "Lecture Notes"
   ],
   "site_uid": "8434795a-eef6-4556-94a8-3d52149fd6a0",
+  "site_short_id": "1.010-fall-2008",
   "title": "Course Metadata"
 }
