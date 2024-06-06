@@ -3,6 +3,7 @@ content_type: resource
 description: Lecture notes on Bernoulli trial sequence and dependence in binary time
   series.
 file: /courses/1-010-uncertainty-in-engineering-fall-2008/8fc155598a75eb24c68b462423fbfc49_app_05.pdf
+file_size: 160126
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
