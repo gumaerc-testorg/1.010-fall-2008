@@ -2,6 +2,7 @@
 content_type: resource
 description: Lecture notes on conditional second-moment analysis.
 file: /courses/1-010-uncertainty-in-engineering-fall-2008/7d700f8750ca621ee14e370eeedaf000_notes_07.pdf
+file_size: 97551
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
