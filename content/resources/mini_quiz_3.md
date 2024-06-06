@@ -2,6 +2,7 @@
 content_type: resource
 description: Quiz on uncertainty in engineering.
 file: /courses/1-010-uncertainty-in-engineering-fall-2008/94cc85975403dc084a146af4c7c5d59d_mini_quiz_3.pdf
+file_size: 33317
 file_type: application/pdf
 learning_resource_types:
 - Exams

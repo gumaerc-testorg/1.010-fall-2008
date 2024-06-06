@@ -2,6 +2,7 @@
 content_type: resource
 description: Lecture notes on selected distribution models.
 file: /courses/1-010-uncertainty-in-engineering-fall-2008/a53f4d787c758a4af86c14bd78cf1f2a_notes_08.pdf
+file_size: 181931
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
