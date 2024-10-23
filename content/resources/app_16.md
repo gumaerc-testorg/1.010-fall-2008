@@ -2,7 +2,7 @@
 content_type: resource
 description: Lecture notes on conditional second moment analysis with vectors and
   prediction of daily temperatures using several past observations.
-file: /courses/1-010-uncertainty-in-engineering-fall-2008/7a14fddb8bd2ed123205fdf3bfdfd5eb_app_16.pdf
+file: /ol-ocw-studio-app/courses/1-010-uncertainty-in-engineering-fall-2008/7a14fddb8bd2ed123205fdf3bfdfd5eb_app_16.pdf
 file_size: 206796
 file_type: application/pdf
 learning_resource_types: []

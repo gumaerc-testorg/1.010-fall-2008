@@ -2,7 +2,7 @@
 content_type: resource
 description: "Lecture notes on Bayes\u2019 theorem and earthquake prediction from\
   \ imperfect premonitory signs."
-file: /courses/1-010-uncertainty-in-engineering-fall-2008/4820210ea00df30c7501fe7f07b4669c_app_04.pdf
+file: /ol-ocw-studio-app/courses/1-010-uncertainty-in-engineering-fall-2008/4820210ea00df30c7501fe7f07b4669c_app_04.pdf
 file_size: 134445
 file_type: application/pdf
 learning_resource_types: []
