@@ -2,7 +2,7 @@
 content_type: resource
 description: Lecture notes on exponential and Poisson distributions. Are the sequences
   of bus and earthquake arrivals Poisson?
-file: /ol-ocw-studio-app/courses/1-010-uncertainty-in-engineering-fall-2008/60ca2e937d397b58e64e8f0cb56432a0_app_06.pdf
+file: /courses/1-010-uncertainty-in-engineering-fall-2008/60ca2e937d397b58e64e8f0cb56432a0_app_06.pdf
 file_size: 328827
 file_type: application/pdf
 learning_resource_types: []
