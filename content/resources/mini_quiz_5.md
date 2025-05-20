@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Quiz on uncertainty in engineering.
-file: /ol-ocw-studio-app/courses/1-010-uncertainty-in-engineering-fall-2008/9dd4e623693c3372120073136d8a6964_mini_quiz_5.pdf
+file: /courses/1-010-uncertainty-in-engineering-fall-2008/9dd4e623693c3372120073136d8a6964_mini_quiz_5.pdf
 file_size: 36797
 file_type: application/pdf
 learning_resource_types:
