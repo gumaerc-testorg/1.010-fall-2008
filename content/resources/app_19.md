@@ -2,7 +2,7 @@
 content_type: resource
 description: Lecture notes on comparison of estimators for the upper limit of the
   uniform distribution.
-file: /ol-ocw-studio-app/courses/1-010-uncertainty-in-engineering-fall-2008/39daffb399911137c1da1c49b6180c73_app_19.pdf
+file: /courses/1-010-uncertainty-in-engineering-fall-2008/39daffb399911137c1da1c49b6180c73_app_19.pdf
 file_size: 302207
 file_type: application/pdf
 learning_resource_types: []

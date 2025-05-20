@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Lecture notes on the reliability and the hazard function.
-file: /ol-ocw-studio-app/courses/1-010-uncertainty-in-engineering-fall-2008/9297a1fc7e46ee0a90b97ec27d24f824_app_08.pdf
+file: /courses/1-010-uncertainty-in-engineering-fall-2008/9297a1fc7e46ee0a90b97ec27d24f824_app_08.pdf
 file_size: 154918
 file_type: application/pdf
 learning_resource_types: []

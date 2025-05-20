@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Lecture notes on stochastic systems and Monte Carlo simulation.
-file: /ol-ocw-studio-app/courses/1-010-uncertainty-in-engineering-fall-2008/a8fa7b3acb8ef5d3f5056fc9d25de82c_app_18.pdf
+file: /courses/1-010-uncertainty-in-engineering-fall-2008/a8fa7b3acb8ef5d3f5056fc9d25de82c_app_18.pdf
 file_size: 203489
 file_type: application/pdf
 learning_resource_types: []

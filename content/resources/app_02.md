@@ -2,7 +2,7 @@
 content_type: resource
 description: Lecture notes on evaluation of natural and man-made risk and the total
   probability theorem.
-file: /ol-ocw-studio-app/courses/1-010-uncertainty-in-engineering-fall-2008/8ec2dbf34535cef7c4c697e60e132c7b_app_02.pdf
+file: /courses/1-010-uncertainty-in-engineering-fall-2008/8ec2dbf34535cef7c4c697e60e132c7b_app_02.pdf
 file_size: 167805
 file_type: application/pdf
 learning_resource_types: []
