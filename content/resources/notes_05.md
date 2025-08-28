@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Lecture notes on functions of random variables and vectors.
-file: /courses/1-010-uncertainty-in-engineering-fall-2008/b4ffd1b0d7fb56037fbdaf251d7fac68_notes_05.pdf
+file: /ol-ocw-studio-app/courses/1-010-uncertainty-in-engineering-fall-2008/b4ffd1b0d7fb56037fbdaf251d7fac68_notes_05.pdf
 file_size: 276171
 file_type: application/pdf
 learning_resource_types:
