@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Homework assignment on uncertainty in engineering.
-file: /courses/1-010-uncertainty-in-engineering-fall-2008/b72e316b363219f54fb0270c86984343_homework_03.pdf
+file: /ol-ocw-studio-app/courses/1-010-uncertainty-in-engineering-fall-2008/b72e316b363219f54fb0270c86984343_homework_03.pdf
 file_size: 160243
 file_type: application/pdf
 learning_resource_types:
